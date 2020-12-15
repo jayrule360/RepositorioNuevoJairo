@@ -1,63 +1,35 @@
-# Título del Proyecto
+# Desarrollo Backend de PCComponentes 🚀
 
-_Acá va un párrafo que describa lo que es el proyecto_
-
-## Comenzando 🚀
-
-_Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
-
-Mira **Deployment** para conocer como desplegar el proyecto.
-
+_Este proyecto consiste en desarrollar toda la estructura de una pagina destinada a la venta de componentes informáticos, con todas las funcionalidades, requisitos, etc.
 
 ### Pre-requisitos 📋
 
-_Que cosas necesitas para instalar el software y como instalarlas_
+_Para poder trabajar en este proyecto necesitarás un editor de texto_
 
 ```
-Da un ejemplo
+Brackets, Sublime Text, Visual Estudio Code...
 ```
 
 ### Instalación 🔧
 
-_Una serie de ejemplos paso a paso que te dice lo que debes ejecutar para tener un entorno de desarrollo ejecutandose_
+_Aqui se explica paso a paso lo que se necesita para tener un entorne de desarrollo ejecutandose sin problemas_
 
-_Dí cómo será ese paso_
-
-```
-Da un ejemplo
-```
-
-_Y repite_
+_1-Ejecutar tu servidor web local_
 
 ```
-hasta finalizar
+Pude ser que, dependiendo de tu S.O, necesites uno u otro, pero puedes usar el que sea:
+Windows: WAMP
+MAC: MAMP
+Linux: XAMP
 ```
 
-_Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para una pequeña demo_
-
-## Ejecutando las pruebas ⚙️
-
-_Explica como ejecutar las pruebas automatizadas para este sistema_
-
-### Analice las pruebas end-to-end 🔩
-
-_Explica que verifican estas pruebas y por qué_
+_2-Mueve todos los archivos al directorio del servidor_
 
 ```
-Da un ejemplo
+Coge todo tu proyecto y ponlo en el directorio raíz en el que se este ejecutando el servidor
 ```
 
-### Y las pruebas de estilo de codificación ⌨️
-
-_Explica que verifican estas pruebas y por qué_
-
-```
-Da un ejemplo
-```
-
-## Despliegue 📦
-
-_Agrega notas adicionales sobre como hacer deploy_
+_Por último, en un navegador web, ejecutar el servidor y comprovar que funciona correctamente_
 
 ## Construido con 🛠️
 
@@ -77,29 +49,27 @@ Puedes encontrar mucho más de cómo utilizar este proyecto en nuestra [Wiki](ht
 
 ## Versionado 📌
 
-Usamos [SemVer](http://semver.org/) para el versionado. Para todas las versiones disponibles, mira los [tags en este repositorio](https://github.com/tu/proyecto/tags).
+Usamos [GitHub](http://github.com/) para el versionado. Para todas las versiones disponibles, mira los tags del repositorio.
 
 ## Autores ✒️
 
-_Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
+_Los siguientes mencionados son los desarrolladores iniciales y los que ayudaron desde el principio a que este proyecto avanzara sin descanso. Por ello, aqui una mención especial:_
 
-* **Andrés Villanueva** - *Trabajo Inicial* - [villanuevand](https://github.com/villanuevand)
-* **Fulanito Detal** - *Documentación* - [fulanitodetal](#fulanito-de-tal)
+* **Jairo Jiménez** - *Jefe de proyecto* - [Instagram](http://instagram.com/__jaairoo_/)
+* **Jordi Ortiz** - *Programador Senior* - [Instagram](https://www.instagram.com/jordiortizt/)
+* **Jordi Roa** - *Programador Junior* - [Instagram](https://www.instagram.com/jordiroaay/)
 
-También puedes mirar la lista de todos los [contribuyentes](https://github.com/your/project/contributors) quíenes han participado en este proyecto. 
+También puedes mirar la lista de todos los [contribuyentes](http://eelslap.com/) quíenes han participado en este proyecto. 
 
 ## Licencia 📄
 
-Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md](LICENSE.md) para detalles
+Este proyecto está bajo la Licencia de PCComponentes - mira el archivo [LICENSE.md](LICENSE.md) para ver todos los detalles
 
 ## Expresiones de Gratitud 🎁
 
+* Si has llegado hasta aqui, muchas gracias por haber leido el documento y esperamos que se haya comprendido el objetivo y las características de este proyecto
 * Comenta a otros sobre este proyecto 📢
 * Invita una cerveza 🍺 o un café ☕ a alguien del equipo. 
-* Da las gracias públicamente 🤓.
-* etc.
-
-
 
 ---
-⌨️ con ❤️ por [Villanuevand](https://github.com/Villanuevand) 😊
+Con ❤️ por [Instagram](http://instagram.com/__jaairoo_/) 😊
