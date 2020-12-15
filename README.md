@@ -34,7 +34,7 @@ _Por último, en un navegador web, ejecutar el servidor y comprovar que funciona
 
 ## Construido con 🛠️
 
-_Menciona las herramientas que utilizaste para crear tu proyecto_
+_Herramientas principales utilizadas para el proyecto_
 
 <table>
     <thead>
