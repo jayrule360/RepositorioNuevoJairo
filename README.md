@@ -36,6 +36,19 @@ _Por último, en un navegador web, ejecutar el servidor y comprovar que funciona
 
 _Menciona las herramientas que utilizaste para crear tu proyecto_
 
+<table>
+    <thead>
+        <td>[Dropwizard](http://www.dropwizard.io/1.0.2/docs/)</td>
+        <td>[Maven](https://maven.apache.org/)</td>
+        <td>[ROME](https://rometools.github.io/rome/)</td>
+    </thead>
+    <tbody>
+        <td>El framework web usado</td>
+        <td>Manejador de dependencias</td>
+        <td>Usado para generar RSS</td>
+    </tbody>
+</table>
+
 * [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - El framework web usado
 * [Maven](https://maven.apache.org/) - Manejador de dependencias
 * [ROME](https://rometools.github.io/rome/) - Usado para generar RSS
