@@ -1,4 +1,4 @@
-![Alt text](C:\Users\Jairo\Documents\GitHub\RepositorioNuevoJairo\img\pc.png?raw=true "Title") 
+![Alt text](https://cdn.pccomponentes.com/img/logos/logo-pccomponentes.svg) 
 # Desarrollo Backend de PCComponentes 🚀
 
 _Este proyecto consiste en desarrollar toda la estructura de una pagina destinada a la venta de componentes informáticos, con todas las funcionalidades, requisitos, etc.
