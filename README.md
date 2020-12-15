@@ -72,4 +72,4 @@ Este proyecto está bajo la Licencia de PCComponentes - mira el archivo [LICENSE
 * Invita una cerveza 🍺 o un café ☕ a alguien del equipo. 
 
 ---
-Con ❤️ por [Instagram](http://instagram.com/__jaairoo_/) 😊
+Con ❤️ por [Jairo](http://instagram.com/__jaairoo_/) 😊
