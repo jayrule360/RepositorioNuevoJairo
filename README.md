@@ -38,9 +38,9 @@ _Menciona las herramientas que utilizaste para crear tu proyecto_
 
 <table>
     <thead>
-        <td>[Dropwizard](http://www.dropwizard.io/1.0.2/docs/)</td>
-        <td>[Maven](https://maven.apache.org/)</td>
-        <td>[ROME](https://rometools.github.io/rome/)</td>
+        <td><a href="http://www.dropwizard.io/1.0.2/docs/">Dropwizard</a></td>
+        <td><a href="https://maven.apache.org/">Maven</a></td>
+        <td><a href="https://rometools.github.io/rome/">ROME</a></td>
     </thead>
     <tbody>
         <td>El framework web usado</td>
@@ -48,10 +48,6 @@ _Menciona las herramientas que utilizaste para crear tu proyecto_
         <td>Usado para generar RSS</td>
     </tbody>
 </table>
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - El framework web usado
-* [Maven](https://maven.apache.org/) - Manejador de dependencias
-* [ROME](https://rometools.github.io/rome/) - Usado para generar RSS
 
 ## Contribuyendo 🖇️
 
