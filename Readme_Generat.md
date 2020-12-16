@@ -1,15 +1,24 @@
-![Alt text](https://cdn.pccomponentes.com/img/logos/logo-pccomponentes.svg)
-# Desarrollo Backend de PCComponentes 🚀
+# ![Alt text](https://cdn.pccomponentes.com/img/logos/logo-pccomponentes.svg)
 
+# Desarrollo Backend de PCComponentes 🚀
 _Este proyecto consiste en desarrollar toda la estructura de una pagina destinada a la venta de componentes informáticos, con todas las funcionalidades, requisitos, etc._
 
-### Pre-requisitos 📋
+## Construido con 🛠️
 
-_Para poder trabajar en este proyecto necesitarás un editor de texto_
+_Herramientas principales utilizadas para el proyecto_
 
-```
-Brackets, Sublime Text, Visual Estudio Code...
-```
+<table>
+    <thead>
+        <td><a href="http://www.dropwizard.io/1.0.2/docs/">Dropwizard</a></td>
+        <td><a href="https://maven.apache.org/">Maven</a></td>
+        <td><a href="https://rometools.github.io/rome/">ROME</a></td>
+    </thead>
+    <tbody>
+        <td>El framework web usado</td>
+        <td>Manejador de dependencias</td>
+        <td>Usado para generar RSS</td>
+    </tbody>
+</table>
 
 ### Instalación 🔧
 
@@ -32,35 +41,6 @@ Coge todo tu proyecto y ponlo en el directorio raíz en el que se este ejecutand
 
 _Por último, en un navegador web, ejecutar el servidor y comprovar que funciona correctamente_
 
-## Construido con 🛠️
-
-_Herramientas principales utilizadas para el proyecto_
-
-<table>
-    <thead>
-        <td><a href="http://www.dropwizard.io/1.0.2/docs/">Dropwizard</a></td>
-        <td><a href="https://maven.apache.org/">Maven</a></td>
-        <td><a href="https://rometools.github.io/rome/">ROME</a></td>
-    </thead>
-    <tbody>
-        <td>El framework web usado</td>
-        <td>Manejador de dependencias</td>
-        <td>Usado para generar RSS</td>
-    </tbody>
-</table>
-
-## Contribuyendo 🖇️
-
-Por favor lee el [CONTRIBUTING.md](https://gist.github.com/villanuevand/xxxxxx) para detalles de nuestro código de conducta, y el proceso para enviarnos pull requests.
-
-## Wiki 📖
-
-Puedes encontrar mucho más de cómo utilizar este proyecto en nuestra [Wiki](https://github.com/tu/proyecto/wiki)
-
-## Versionado 📌
-
-Usamos [GitHub](http://github.com/) para el versionado. Para todas las versiones disponibles, mira los tags del repositorio.
-
 ## Autores ✒️
 
 _Los siguientes mencionados son los desarrolladores iniciales y los que ayudaron desde el principio a que este proyecto avanzara sin descanso. Por ello, aqui una mención especial:_
@@ -69,11 +49,7 @@ _Los siguientes mencionados son los desarrolladores iniciales y los que ayudaron
 * **Jordi Ortiz** - *Programador Senior* - [Instagram](https://www.instagram.com/jordiortizt/)
 * **Jordi Roa** - *Programador Junior* - [Instagram](https://www.instagram.com/jordiroaay/)
 
-También puedes mirar la lista de todos los [contribuyentes](http://eelslap.com/) quíenes han participado en este proyecto. 
-
-## Licencia 📄
-
-Este proyecto está bajo la Licencia de PCComponentes - mira el archivo [LICENSE.md](LICENSE.md) para ver todos los detalles
+También puedes mirar la lista de todos los [contribuyentes](http://eelslap.com/) quíenes han participado en este proyecto.
 
 ## Expresiones de Gratitud 🎁
 
